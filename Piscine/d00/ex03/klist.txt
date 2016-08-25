@@ -1,0 +1,5 @@
+Credentials cache: API:18879
+        Principal: aroulin@42.FR
+
+  Issued                Expires               Principal
+Aug  2 08:10:35 2016  Aug  9 08:10:28 2016  krbtgt/42.FR@42.FR
